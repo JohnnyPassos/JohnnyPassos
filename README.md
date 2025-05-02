@@ -1,6 +1,6 @@
 ### Olá, eu sou o Johnny Passos! 👋 Seja Bem-Vindo(a)!
 
-![Banner](https://github.com/JohnnyPassos/JohnnyPassos/raw/main/banner.png)
+![Banner](http://googleusercontent.com/image_generation_content/0)
 
 🚀 **Sobre Mim:**
 Sou estudante de graduação em **Análise e Desenvolvimento de Sistemas (ADS EAD)** na Universidade Católica de Brasília, apaixonado por tecnologia, programação e por transformar ideias em soluções práticas. Tenho explorado diversas áreas do desenvolvimento, com foco recente em **Desenvolvimento Mobile iOS com Swift** através do programa **HackaTruck MakerSpace** e também em **Desenvolvimento Backend com Python**, como demonstrado na criação de bots para Telegram. Meu objetivo é continuar aprendendo, aplicando meus conhecimentos em projetos desafiadores e buscando oportunidades para crescer como Engenheiro de Software.
