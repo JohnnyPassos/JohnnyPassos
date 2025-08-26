@@ -1,67 +1,61 @@
-### Olá, eu sou o Johnny Passos! 👋 Seja Bem-Vindo(a)!
+Olá, eu sou o Johnny Passos! 👋 Seja Bem-Vindo(a)!
+🚀 Sobre Mim:
+Sou estudante de graduação em Análise e Desenvolvimento de Sistemas (ADS EAD) na Universidade Católica de Brasília, apaixonado por tecnologia e por transformar dados e ideias em soluções inteligentes. Tenho me especializado em Inteligência Artificial, Machine Learning e Visão Computacional, com experiência prática em projetos que envolvem detecção de objetos, classificação de imagens e análise de dados. Meu objetivo é continuar aprendendo e aplicando meus conhecimentos para resolver problemas complexos e buscar oportunidades para crescer como Engenheiro de Machine Learning e Cientista de Dados.
 
-![Banner](http://googleusercontent.com/image_generation_content/0)
+🛠️ Tecnologias e Habilidades:
 
-🚀 **Sobre Mim:**
-Sou estudante de graduação em **Análise e Desenvolvimento de Sistemas (ADS EAD)** na Universidade Católica de Brasília, apaixonado por tecnologia, programação e por transformar ideias em soluções práticas. Tenho explorado diversas áreas do desenvolvimento, com foco recente em **Desenvolvimento Mobile iOS com Swift** através do programa **HackaTruck MakerSpace** e também em **Desenvolvimento Backend com Python**, como demonstrado na criação de bots para Telegram. Meu objetivo é continuar aprendendo, aplicando meus conhecimentos em projetos desafiadores e buscando oportunidades para crescer como Engenheiro de Software.
+Linguagens de Programação:
+    * 🐍 Python: (Análise de Dados, Machine Learning, Visão Computacional, Desenvolvimento de Bots - python-telegram-bot)
+    * 🍏 Swift: (Conceitos Fundamentais, Algoritmos, POO - Conhecimentos em iOS)
+    * 🌐 JavaScript: (Fundamentos, HTML, CSS)
 
----
+Inteligência Artificial & Machine Learning:
+    * Visão Computacional
+    * Conceitos de IA e Machine Learning
+    * Serviços Cognitivos (Speech to Text, Text to Speech)
 
-🛠️ **Tecnologias e Habilidades:**
+Bibliotecas e Frameworks:
+    * Pandas, OpenCV, PyTorch, TensorFlow, Keras, NumPy, Matplotlib
 
-* **Linguagens de Programação:**
-    * 🐍 **Python:** (Scripting, Desenvolvimento de Bots - `python-telegram-bot`, Conceitos de Backend)
-    * 🍏 **Swift:** (Conceitos Fundamentais, Algoritmos, POO - Aprendendo/Aplicando no HackaTrucker)
-    * ☕ **Java:** (Exposição a Conceitos de Lógica, POO e Estruturas de Dados)
-    * 🌐 **JavaScript:** (Fundamentos, HTML, CSS - Base de Desenvolvimento Web)
+Ambientes de Desenvolvimento:
+    * Colab, Kaggle, VS Code, Terminal
 
-* **Desenvolvimento Mobile:**
-    * 📱 iOS Development (Aprendendo via HackaTrucker - Swift, UIKit/SwiftUI - *especificar se já viu*)
+Bancos de Dados:
+    * SQL (Conceitos), NoSQL
 
-* **Desenvolvimento Web (Exposição):**
-    * 🖼️ Frontend: React, Next.js
-    * ⚙️ Backend: Node.js, Express
+Ferramentas e Conceitos:
+    * ☁️ Controle de Versão: Git, GitHub
+    * 🧩 APIs: Consumo e Criação de APIs RESTful
+    * 🧱 Conceitos Fundamentais: Algoritmos, Estruturas de Dados, Programação Orientada a Objetos (POO)
+    * Cloud Computing: IBM Cloud, Cloud Services
 
-* **Bancos de Dados (Exposição):**
-    * 🐘 SQL (Conceitos)
-    * 🍃 NoSQL (MongoDB com Mongoose - Conceitos)
+📚 Projetos em Destaque:
 
-* **Ferramentas e Conceitos:**
-    * ☁️ Controle de Versão: **Git, GitHub**
-    * ⚙️ Ambiente: Terminal, VS Code, Ambientes Virtuais (`venv`, `pip`)
-    * 🔑 Configuração: Variáveis de Ambiente (`.env`, `python-dotenv`)
-    * 🧩 APIs: Consumo de APIs (Telegram Bot API via biblioteca), Conceitos de APIs REST
-    * 🧱 Conceitos Fundamentais: Algoritmos, Estruturas de Dados (Básico/Teoria), Programação Orientada a Objetos (POO)
+Detecção de Objetos com YOLOv8: Projeto de Visão Computacional utilizando a arquitetura YOLOv8.
 
----
+Detecção e Classificação de Face: Projeto que aborda a detecção e classificação de faces.
 
-📚 **Atualmente Aprendendo e Focando:**
+Transfer Learning de Reconhecimento de Cães e Gatos: Aplicando Transfer Learning para classificação de imagens.
 
-* deepenando meus conhecimentos em **Swift e desenvolvimento iOS** no projeto presencial do HackaTruck MakerSpace.
-* praticando **Python** através da criação de projetos como bots e scripts.
-* solidificando conceitos de **Engenharia de Software** e boas práticas através do curso de ADS e projetos.
+Cálculo de Métricas ML: Projeto focado no cálculo de métricas de avaliação de modelos.
 
----
+💡 Interesses:
 
-💡 **Interesses:**
+Ciência de Dados e Engenharia de Machine Learning 📈
 
-* Desenvolvimento de Software (Mobile iOS & Backend) 📱⚙️
-* Inteligência Artificial e Chatbots 🤖💬
-* Contribuição para Open Source 📂
-* UI/UX Design (Conceitos) 🎨
-* Inovação e Novas Tecnologias ✨
+Visão Computacional e Processamento de Imagens 🖼️
 
----
+Desenvolvimento de Software (Backend & Mobile iOS) ⚙️📱
 
-📫 **Conecte-se Comigo:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-passos-1aa06359/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/JohnnyPassos)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=web)](https://github.com/JohnnyPassos/meu-site) *(Verifique se este link ainda é o seu portfólio principal)*
+Inteligência Artificial e Chatbots 🤖💬
 
----
+Inovação e Novas Tecnologias ✨
 
-⚡ **Curiosidade:** Adoro desmontar problemas complexos em partes menores e construir soluções passo a passo! 😃 *(Sugestão, sinta-se livre para mudar!)*
+📫 Conecte-se Comigo:
 
----
+
+
+
+⚡ Curiosidade: Adoro usar a programação para encontrar padrões em dados e criar soluções visuais! 😃
 
 ⭐️ Inspirado pelas comunidades open-source e entusiastas de tecnologia!
